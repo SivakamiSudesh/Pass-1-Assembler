@@ -442,3 +442,4 @@ document.querySelectorAll('.bndry').forEach(function(div) {
 
 
 document.querySelector('.' + className).style.display = 'block';
+}
